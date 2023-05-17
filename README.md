@@ -1,1 +1,1 @@
-# Didts-Classification-using-Tensorflow
+# Digits-Prediction-using-Tensorflow
